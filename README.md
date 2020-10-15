@@ -1,5 +1,7 @@
 # Adafruit_SSD1306 [![Build Status](https://github.com/adafruit/Adafruit_SSD1306/workflows/Arduino%20Library%20CI/badge.svg)](https://github.com/adafruit/Adafruit_SSD1306/actions)[![Documentation](https://github.com/adafruit/ci-arduino/blob/master/assets/doxygen_badge.svg)](http://adafruit.github.io/Adafruit_SSD1306/html/index.html)
 
+* Adafruit_SSD1306 library modified to have CWRU Baja splash screen *
+
 This is a library for our Monochrome OLEDs based on SSD1306 drivers
 
   Pick one up today in the adafruit shop!
